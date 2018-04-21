@@ -1,0 +1,15 @@
+{
+  "name": "tslint-config-kstnp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kusotenpa/tslint-config-kstnp.git",
+  "author": "kusotenpa <t.bass0326@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "4.19.1"
+  },
+  "peerDependencies": {
+    "tslint": ">=5.9.1",
+    "tslint-eslint-rules": ">=5.1.0"
+  }
+}
